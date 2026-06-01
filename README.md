@@ -1,9 +1,10 @@
 📊 Exploring Crime Rate Patterns: A Machine Learning‑Driven Analysis
+
 📌 Overview
 This project analyzes crime rate patterns using machine learning and interactive visualizations. It leverages historical crime datasets to identify hotspots, trends, and risk factors, providing insights that can support law enforcement, policymakers, and researchers in crime prevention and resource allocation.
 
 The project is implemented as a Streamlit web application, combining data preprocessing, visualization, and predictive modeling.
-👉 Live Demo: Streamlit Cloud Deployment
+👉 Live Demo: https://github.com/Varshi040104/AI-GEsture-Webapp/tree/main
 
 🚀 Features
 Dataset Viewer: Toggle between raw and processed crime datasets.
